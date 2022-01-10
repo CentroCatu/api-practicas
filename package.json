@@ -1,7 +1,7 @@
 {
-  "name": "api-cli",
+  "name": "practica-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api de practica para clases",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon app/server.js",
